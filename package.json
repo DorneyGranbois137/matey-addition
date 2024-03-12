@@ -1,0 +1,27 @@
+{
+  "name": "matey-addition",
+  "version": "1.0.0",
+  "description": "matey-addition offers efficient summing. It provides streamlined solutions for sum calculations, ensuring efficiency and accuracy in your operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "matey-addition": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DorneyGranbois137/matey-addition.git"
+  },
+  "homepage": "https://github.com/DorneyGranbois137/matey-addition/blob/main/README.md",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "DorneyGranbois137",
+  "license": "MIT"
+}
